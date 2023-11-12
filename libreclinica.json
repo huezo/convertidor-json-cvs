@@ -1,0 +1,42 @@
+  {
+  "url": "https://api.github.com/repos/Alagant/LibreClinica/releases/128839372",
+  "assets_url": "https://api.github.com/repos/Alagant/LibreClinica/releases/128839372/assets",
+  "upload_url": "https://uploads.github.com/repos/Alagant/LibreClinica/releases/128839372/assets{?name,label}",
+  "html_url": "https://github.com/Alagant/LibreClinica/releases/tag/137",
+  "id": 128839372,
+  "author": {
+    "login": "huezo",
+    "id": 15940634,
+    "node_id": "MDQ6VXNlcjE1OTQwNjM0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/15940634?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/huezo",
+    "html_url": "https://github.com/huezo",
+    "followers_url": "https://api.github.com/users/huezo/followers",
+    "following_url": "https://api.github.com/users/huezo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/huezo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/huezo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/huezo/subscriptions",
+    "organizations_url": "https://api.github.com/users/huezo/orgs",
+    "repos_url": "https://api.github.com/users/huezo/repos",
+    "events_url": "https://api.github.com/users/huezo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/huezo/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "node_id": "RE_kwDOKnhv384Hre7M",
+  "tag_name": "137",
+  "target_commitish": "34e49d49a34750622bd20b3effd261860b8f271b",
+  "name": null,
+  "draft": false,
+  "prerelease": false,
+  "created_at": "2023-11-10T03:36:19Z",
+  "published_at": "2023-11-10T03:40:51Z",
+  "assets": [
+
+  ],
+  "tarball_url": "https://api.github.com/repos/Alagant/LibreClinica/tarball/137",
+  "zipball_url": "https://api.github.com/repos/Alagant/LibreClinica/zipball/137",
+  "body": "\n\n## Changes:\n\n* 34e49d49a34750622bd20b3effd261860b8f271b Update azure-pipelines.yml for Azure Pipelines\n* 403590b6b632e1f69925c340a15fc6a78371f4d9 azure-pipelines.yml for Azure Pipelines\n\nThis list of changes was [auto generated](https://dev.azure.com/Alagant/LibreClinica/_build/results?buildId=137&view=logs)."
+}
+
