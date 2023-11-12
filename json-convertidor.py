@@ -10,7 +10,7 @@ print("This script will convert a JSON file to CSV or a CSV file to JSON")
 try:
     print("Which file do you want to convert?")
 #    filename = input("Filename: ")
-    filename = libreclinica.json
+    filename = "libreclinica.json"
     print(filename)
     extension = filename.split(".")[-1].lower()
     
