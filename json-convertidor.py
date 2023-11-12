@@ -9,10 +9,8 @@ print("This script will convert a JSON file to CSV or a CSV file to JSON")
 # SELECT AND OPEN A CSV OR JSON FILE
 try:
     print("Which file do you want to convert?")
-#    filename = input("Filename: ")
-    filename = libreclinica.json
-    extension = json
-#    extension = filename.split(".")[-1].lower()
+    filename = input("Filename: ")
+    extension = filename.split(".")[-1].lower()
     
     f = open(filename)
 
